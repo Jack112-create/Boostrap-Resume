@@ -69,6 +69,7 @@ body {
     color: #555555;
 }
 
+div#map {min-height: 360px;}
 
 /*--------------------------------------------Special Paddings/Margins/Text*/
 
